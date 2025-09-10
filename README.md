@@ -1,2 +1,6 @@
-# RageWare
-RageWare is a script for roblox #script #roblox #exploit #hack #cheat #rage #rageware
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCPPEnjoyer/RageWare/refs/heads/main/Loader.lua", true))()
+```
+
+# Join our discord!
+[discord.gg/wyUrVCsEsx](https://discord.gg/wyUrVCsEsx)
